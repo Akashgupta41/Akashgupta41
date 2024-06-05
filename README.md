@@ -5,7 +5,7 @@ I'm a MERN Stack Developer with a passion for building web applications that mak
 
 ## 🛠️ Skills
 - **Frontend**: React.js, Tailwind CSS, Bootstrap 5
-- **Backend**: Node.js, Express.js
+- **Backend**: Node.js, Express.js,socket.io
 - **Database**: MongoDB
 - **DevOps**: Git, GitHub
 - **Cloud Services**: Cloudinary
