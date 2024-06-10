@@ -28,8 +28,6 @@ I actively contribute to open source projects and believe in the power of commun
 ## 📈 GitHub Stats
 !Akash's GitHub stats
 
-<!-- Replace 'yourusername' with your GitHub username and 'your.email@example.com' with your email address -->
-
 ## 📚 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 -todo app
