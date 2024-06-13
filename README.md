@@ -29,7 +29,7 @@ I actively contribute to open source projects and believe in the power of commun
 !Akash's GitHub stats
 
 ## 📚 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
+
 -todo app
 
 <!-- BLOG-POST-LIST:END -->
